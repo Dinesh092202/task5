@@ -79,3 +79,9 @@ ON Customers.customer_id = Orders.customer_id;
 | 2           | Anurag Sharma | Indore      | 102      | 300.00 |
 | 3           | Abhishek jain | Agra        | 104      | 400.00 |
 | 4           | Madhu         | pune        | NULL     | NULL   |
+
+✅ Outcome
+
+✔ Understood the differences between INNER, LEFT, RIGHT, and FULL JOIN
+✔ Practiced merging data from multiple tables
+✔ Gained hands-on experience with real SQL join queries
